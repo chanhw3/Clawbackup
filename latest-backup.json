@@ -1,11 +1,11 @@
 {
-  "created_at": "2026-03-14_223038",
-  "backup_file": "openclaw-2026-03-14_2230.tar.gz",
-  "source_backup_path": "/Users/jaijai/openclaw-backups/openclaw-2026-03-14_2230.tar.gz",
-  "artifact_dir": "artifacts/2026-03-14_223038",
-  "part_prefix": "openclaw-2026-03-14_2230.tar.gz.part-",
+  "created_at": "2026-03-15_033004",
+  "backup_file": "openclaw-2026-03-15_0330.tar.gz",
+  "source_backup_path": "/Users/jaijai/openclaw-backups/openclaw-2026-03-15_0330.tar.gz",
+  "artifact_dir": "artifacts/2026-03-15_033004",
+  "part_prefix": "openclaw-2026-03-15_0330.tar.gz.part-",
   "part_count": 44,
   "chunk_size_mb": 45,
-  "size_bytes": 2068969512,
-  "sha256": "ada787b0d69396a3221ea709111e1f8377927eeb749c11beb613b0bda05cee79",
+  "size_bytes": 2069171187,
+  "sha256": "3f2b0b95959690aaaad7f7fbea30bfe99665b100eebbca40c162c2406f0c9d80",
   "openclaw_version": "
